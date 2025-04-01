@@ -1,7 +1,7 @@
 <?php
 
 // Inclui o arquivo que contém a classe Pessoa
-require_once 'Pessoa.php';
+require_once 'pessoas.php';
 
 // Definição da classe Cliente, que herda da classe Pessoa
 class Cliente extends Pessoa {
