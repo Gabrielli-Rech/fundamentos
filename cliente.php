@@ -4,7 +4,7 @@
 require_once 'pessoas.php';
 
 // Definição da classe Cliente, que herda da classe Pessoa
-class Cliente extends Pessoa {
+class Cliente extends pessoas {
     protected $saldo;
 
     // Construtor
